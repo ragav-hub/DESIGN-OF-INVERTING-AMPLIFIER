@@ -40,8 +40,14 @@ Inverting amplifier:
 
 ## TABULATION:
 
+<img width="1200" height="1200" alt="WhatsApp Image 2026-06-13 at 11 02 29" src="https://github.com/user-attachments/assets/c4f68ebe-cbc5-49b3-8fd3-d8168696d54e" />
+
 
 ## GRAPH:
 
+<img width="527" height="652" alt="image" src="https://github.com/user-attachments/assets/552cba28-20a7-475f-a2db-996ec30253a5" />
+
 
 ## RESULT:
+
+Thus,the design of inverting amplifier is executed and output verified successfully
